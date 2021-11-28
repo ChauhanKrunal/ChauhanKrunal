@@ -2,6 +2,7 @@
 # Hi, 👋 Myself Krunal 
 ## 🚀 About Me
 - I am very passionate about, Ahhh intro not needed who gives a shit about it. ***Just messing around with the tech***  
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunalrchauhan/)
 [![twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=chauhan.krunal.r@gmail.com)
 
