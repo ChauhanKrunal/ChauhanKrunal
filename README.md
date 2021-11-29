@@ -1,7 +1,7 @@
 
 # Hi, 👋 Myself Krunal 
 ## 🚀 About Me
-- I am very passionate about, Ahhh intro not needed who gives a shit about it. ***Just messing around with the tech***  
+- I am very passionate about, Intro ahhhh not needed who gives a shit about it. ***Anyway just messing around with the tech***  
 
 ## Reach Out To
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunalrchauhan/)
