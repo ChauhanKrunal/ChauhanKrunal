@@ -27,4 +27,4 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## GitHub Statistics
-![Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChauhanKrunal&show_icons=true&theme=radical)
