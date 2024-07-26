@@ -29,5 +29,4 @@
 <!--START_SECTION:activity-->
 
 ## Contribution Stats
-[![GitHub Streak](https://github-readme-streak-stats-coral-xi.vercel.app?user=)](https://git.io/streak-stats)
-
+[![GitHub Stats](https://readme-stats-c336.vercel.app/api?username=ChauhanKrunal&show_icons=true&theme=chartreuse-dark)](https://github.com/ChauhanKrunal) ![GitHub Streaks](https://github-readme-streak-stats-ebon-five.vercel.app/?user=ChauhanKrunal&theme=soft-green)
