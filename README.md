@@ -27,6 +27,8 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#36](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub/pull/36) in [eclipse-tractusx/ssi-dim-wallet-stub](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub)
+<!--END_SECTION:activity-->
 
 ## Contribution Stats
 [![GitHub Stats](https://readme-stats-c336.vercel.app/api?username=ChauhanKrunal&show_icons=true&theme=chartreuse-dark)](https://github.com/ChauhanKrunal) ![GitHub Streaks](https://github-readme-streak-stats-ebon-five.vercel.app/?user=ChauhanKrunal&theme=soft-green)
