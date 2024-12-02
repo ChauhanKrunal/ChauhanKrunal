@@ -27,7 +27,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub/pull/37) in [eclipse-tractusx/ssi-dim-wallet-stub](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub)
+1. 💪 Opened PR [#38](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub/pull/38) in [eclipse-tractusx/ssi-dim-wallet-stub](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub)
 <!--END_SECTION:activity-->
 
 ## Contribution Stats
